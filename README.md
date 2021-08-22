@@ -26,7 +26,8 @@ Run.
 * [Crypto.js](https://cryptojs.gitbook.io/docs/)
 
 ## Versioning
-
+Node v16.5.0
+Crypto.js ^4.1.1
 
 ## Author
 [Rita Alfonso](https://github.com/alfonsotech)
