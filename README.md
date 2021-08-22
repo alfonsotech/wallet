@@ -10,9 +10,9 @@ Wallet will be able to:
 - [ ] Verify signatures
 - [ ] Encrypt messages
 - [ ] Decrypt messages
-- [ ] Compatible with Bitcoin
 
 ### Stretch Goals
+- [ ] Compatible with Bitcoin
 - [ ] Compatible with Ethereum
 - [ ] HD wallet
 
