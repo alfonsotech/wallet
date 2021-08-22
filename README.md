@@ -1,4 +1,4 @@
-# My Bitcoi Wallet
+# My Crypto Wallet
 
 ## Description
 An blockchain wallet built using [Crypto.js](https://cryptojs.gitbook.io/docs/).
