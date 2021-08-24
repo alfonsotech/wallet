@@ -37,3 +37,9 @@ Crypto.js ^4.1.1
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Out Of Scope
+## Open Questions
+## Problem/Approach
+## Security and Privacy
+## Test Plan
+
